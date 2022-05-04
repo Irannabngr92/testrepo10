@@ -1,5 +1,0 @@
-Line1 and line2
-line3 and line4
-line5 and line6
-middle line
-line7 and line8
